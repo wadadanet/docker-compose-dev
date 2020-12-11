@@ -1,0 +1,11 @@
+{
+  "name": "docker-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "author": "",
+  "license": "ISC"
+}
